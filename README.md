@@ -179,7 +179,7 @@ Sales showed seasonal patterns during specific months.
 Example:
 
 ```markdown
-![Dashboard](dashboard_charts.png)
+![Dashboard](online_retail_dashboard.png)
 ```
 
 ---
@@ -198,10 +198,10 @@ Potential future development:
 
 # 👤 Author
 
-Name: Your Name
+Name: Nayaka
 
-LinkedIn: [Your LinkedIn]
-GitHub: [Your GitHub]
+LinkedIn: [[Nayaka Khansa Alana](https://www.linkedin.com/in/nayaka-khansa-alana)]
+GitHub: [[nayakakhansaalana](https://github.com/nayakakhansaalana)]
 
 ---
 
